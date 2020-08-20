@@ -1,16 +1,18 @@
 # code_challenge
-A challenge for interviewing QA engineers:
+## A challenge for interviewing QA engineers:
 
-clone repo
+#### go to https://codepen.io/rkpasia/pen/LNEQod and use selenium to create tests for the sign up page
 
-create your own branch
+* clone repo
 
-go to https://codepen.io/rkpasia/pen/LNEQod and use selenium to create tests for the sign up page
+* create your own branch
 
-test that the sign up goes through each phase (should pass)
+* set up selenium
 
-test that the email requires a @ (should fail)
+* test that the sign up goes through each phase (should pass)
 
-test that it denies continuation if the passwords dont match (should fail)
+* test that the email requires a @ (should fail)
 
-push to remote repo when done or commit progress as you work on it for bonus points
+* test that it denies continuation if the passwords dont match (should fail)
+
+* push to remote repo when done or commit progress as you work on it for bonus points
